@@ -1,4 +1,7 @@
 #include "lists.h"
+#include <stdio.h>
+#include <stddef.h>
+#include <stdlib.h>
 
 /**
  * insert_node - function that insert a number into a sorted singly linked list
